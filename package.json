@@ -1,0 +1,23 @@
+{
+  "name": "ng-image-picker",
+  "version": "0.0.1",
+  "description": "This piece of code is an image files selector for AngularJS.",
+  "author": "Diego Herrera",
+  "homepage": "https://github.com/vermicida/ng-image-picker#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermicida/ng-image-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vermicida/ng-image-picker/issues"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "javascript",
+    "image",
+    "upload",
+    "post"
+  ]
+}
